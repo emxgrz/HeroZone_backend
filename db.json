@@ -1,13 +1,32 @@
 {
-  "newSuperHero": [
+  "newsuperheroes": [
     {
-      "title": "ironman",
-      "id": 1
+      "id": 1,
+      "name": "Ironbike",
+      "superpower": "Flight and ride",
+      "description": "Uses a powered exoskeleton to fly and combat threats.",
+      "image": "http://example.com/ironbike.jpg"
     },
     {
-      "title": "ironman",
-      "superpower": "inivisibility",
-      "id": 2
+      "id": 2,
+      "name": "Spider-Monkey",
+      "superpower": "Spider-Sense and Monkey-Sensitivity",
+      "description": "Has the ability to sense danger before it happens, along with superhuman strength and agility.",
+      "image": "http://example.com/spidermonkey.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Thorn-Apart",
+      "superpower": "Gold and Thunder",
+      "description": "Wields the enchanted hammer Mjolnir, allowing him to control thunder and lightning.",
+      "image": "http://example.com/thorn-apart.jpg"
+    },
+    {
+      "id": 4,
+      "name": "a",
+      "superpower": "b",
+      "description": "Highly skilled in espionage, combat, and tactics.",
+      "image": "d"
     }
   ]
 }
