@@ -1,32 +1,32 @@
 {
   "newsuperheroes": [
     {
-      "id": 1,
+      "id": 72,
+      "name": "Spider-Monkey",
+      "superpower": "Spider-Sense and Monkey-Sensitivity",
+      "description": "Has the ability to sense danger before it happens, run and laugh about it.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8a7MA-dBkDYgUOhZkBy3AI9xePa6k5hOMsA&s"
+    },
+    {
+      "id": 73,
+      "name": "Thorn-Apart",
+      "superpower": "Gold and Thunder",
+      "description": "Wields the enchanted wrench, allowing him to control thunder, lightning and potatoes.",
+      "image": "https://www.thoughtfulcode.com/wp-content/uploads/2019/01/rubber-duck-debugging-and-psychology-sunglassed-rubber-duck-1272x848.jpg"
+    },
+    {
+      "name": "Air-Walker (Gabriel Lan)",
+      "description": "hey there",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/66f2d68d99dc8.jpg",
+      "marvelId": "1011136",
+      "id": 75
+    },
+    {
+      "id": 76,
       "name": "Ironbike",
       "superpower": "Flight and ride",
       "description": "Uses a powered exoskeleton to fly and combat threats.",
       "image": "http://example.com/ironbike.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Spider-Monkey",
-      "superpower": "Spider-Sense and Monkey-Sensitivity",
-      "description": "Has the ability to sense danger before it happens, along with superhuman strength and agility.",
-      "image": "http://example.com/spidermonkey.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Thorn-Apart",
-      "superpower": "Gold and Thunder",
-      "description": "Wields the enchanted hammer Mjolnir, allowing him to control thunder and lightning.",
-      "image": "https://www.thoughtfulcode.com/wp-content/uploads/2019/01/rubber-duck-debugging-and-psychology-sunglassed-rubber-duck-1272x848.jpg"
-    },
-    {
-      "id": 4,
-      "name": "a",
-      "superpower": "b",
-      "description": "Highly skilled in espionage, combat, and tactics.",
-      "image": "d"
     }
   ]
 }
