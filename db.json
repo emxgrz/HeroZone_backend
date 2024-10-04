@@ -1,32 +1,193 @@
 {
   "newsuperheroes": [
     {
-      "id": 72,
+      "id": 1,
       "name": "Spider-Monkey",
       "superpower": "Spider-Sense and Monkey-Sensitivity",
       "description": "Has the ability to sense danger before it happens, run and laugh about it.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8a7MA-dBkDYgUOhZkBy3AI9xePa6k5hOMsA&s"
     },
     {
-      "id": 73,
+      "id": 2,
       "name": "Thorn-Apart",
       "superpower": "Gold and Thunder",
       "description": "Wields the enchanted wrench, allowing him to control thunder, lightning and potatoes.",
       "image": "https://www.thoughtfulcode.com/wp-content/uploads/2019/01/rubber-duck-debugging-and-psychology-sunglassed-rubber-duck-1272x848.jpg"
     },
     {
-      "name": "Air-Walker (Gabriel Lan)",
-      "description": "hey there",
-      "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/66f2d68d99dc8.jpg",
-      "marvelId": "1011136",
-      "id": 75
-    },
-    {
-      "id": 76,
+      "id": 3,
       "name": "Ironbike",
       "superpower": "Flight and ride",
       "description": "Uses a powered exoskeleton to fly and combat threats.",
-      "image": "http://example.com/ironbike.jpg"
+      "image": "https://i.pinimg.com/564x/ce/61/77/ce6177bc78a29aa757e8c2e09f090139.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Captain Echo",
+      "superpower": "Sonic voice and echo manipulation",
+      "description": "Grita tan fuerte que hasta el eco se arrepiente de repetirlo.",
+      "image": "https://i.pinimg.com/564x/7f/8a/06/7f8a06244a624430fb862e51dc4c26c5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Frostbyte",
+      "superpower": "Ice creation and freezing touch",
+      "description": "Con una mirada puede congelar... aunque la mayoría del tiempo solo se le congelan los pies.",
+      "image": "https://i.pinimg.com/564x/09/d9/88/09d9883bd124afce5e1b7bfaf2703c1f.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Shadow Fox",
+      "superpower": "Invisibility and shadow teleportation",
+      "description": "Tan sigiloso que nadie lo invita a las fiestas porque siempre desaparece.",
+      "image": "https://i.pinimg.com/564x/98/a3/3e/98a33e36b614e98c8172cd08303e2bdf.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Electroclaw",
+      "superpower": "Electric claws and shockwaves",
+      "description": "Cuando no está electrocutando villanos, está cargando tu móvil en tiempo récord.",
+      "image": "https://i.pinimg.com/564x/aa/22/5a/aa225a6380d87d5bc2034e55b01554b0.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Toxic Turtle",
+      "superpower": "Poisonous shell and acid spit",
+      "description": "Lento pero seguro... bueno, al menos la parte del veneno es segura.",
+      "image": "https://i.pinimg.com/564x/d7/62/8d/d7628d13f5eace7ad7356f6268b7bb9d.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Gamma Gopher",
+      "superpower": "Digging at lightning speed and radioactive energy",
+      "description": "Excava más rápido que tu perro en el jardín, pero brilla en la oscuridad.",
+      "image": "https://i.pinimg.com/564x/12/f1/d2/12f1d27a90122feadd2516053dfbdfb8.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Invisible Couch Potato",
+      "superpower": "Turns Invisible While Watching TV",
+      "description": "Disappears whenever a new series is released. Untraceable during Netflix marathons.",
+      "image": "https://i.pinimg.com/564x/78/64/30/78643058a235e88f6adec398811abfc7.jpg"
+    },
+    {
+      "id": 11,
+      "name": "The Flash Nap",
+      "superpower": "Super Speed Napping",
+      "description": "Can fall asleep in 0.01 seconds and wake up fully recharged.",
+      "image": "https://i.pinimg.com/564x/e7/1f/bb/e71fbb3e3fea24b724329ad505ce49bc.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Captain Crunch-Time",
+      "superpower": "Solves Every Problem Last Minute",
+      "description": "An expert in procrastination, saving the day seconds before the deadline.",
+      "image": "https://i.pinimg.com/564x/7d/77/0f/7d770fe2005c359604cae4e39ac89eb3.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Bubblegum Girl",
+      "superpower": "Infinite Chewing and Bubble Blowing",
+      "description": "Can blow bubbles so big, they can lift a car.",
+      "image": "https://i.pinimg.com/564x/0f/a3/ac/0fa3acdb3a2d3d0d4b891dcd31b4c026.jpg"
+    },
+    {
+      "id": 14,
+      "name": "The Mighty Napkin",
+      "superpower": "Absorbs Any Liquid Instantly",
+      "description": "Can clean up spills before they hit the ground.",
+      "image": "https://i.pinimg.com/564x/20/fe/bd/20febd5e4747fa0b7dd61bcbd1fe06d7.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Dr. Sneeze",
+      "superpower": "Controls Sneezes of Mass Destruction",
+      "description": "A sneeze so powerful it can cause mini earthquakes.",
+      "image": "https://i.pinimg.com/736x/e5/0f/b7/e50fb73a52c098a4bb0ab9a3ddfdc5ee.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Meme-Man",
+      "superpower": "Summons Viral Memes to Distract Villains",
+      "description": "Can create memes that instantly confuse or charm his enemies.",
+      "image": "https://i.pinimg.com/564x/7d/e1/e8/7de1e8cd942899cf78d665c8a2cdc431.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Pizza Paladin",
+      "superpower": "Infinite Pizza Summoning",
+      "description": "Can summon any type of pizza from the heavens. Works especially well at parties.",
+      "image": "https://i.pinimg.com/564x/2a/e3/ae/2ae3aee06b1c2c6e69b9a518d2c41c3f.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Captain Tangent",
+      "superpower": "Goes Off-Topic to Confuse Opponents",
+      "description": "Starts stories that go nowhere, leaving villains frustrated and distracted.",
+      "image": "https://i.pinimg.com/564x/53/80/4a/53804a0233f113bd0d644d1067ec13bf.jpg"
+    },
+    {
+      "id": 19,
+      "name": "The Blender",
+      "superpower": "Can Turn Any Object into Smoothies",
+      "description": "Blends through any challenge... literally. Also makes a mean banana smoothie.",
+      "image": "https://i.pinimg.com/564x/c4/61/65/c46165784d3346f041090fd1e1ef1d53.jpg"
+    },
+    {
+      "id": 20,
+      "name": "The Coffee Knight",
+      "superpower": "Never Sleeps, Powered by Infinite Coffee",
+      "description": "Always awake and alert, can function without sleep for days, but only with enough coffee.",
+      "image": "https://i.pinimg.com/564x/0b/65/48/0b6548c7f9b7321abdfafbfdde5b60c6.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Wi-Fi Warrior",
+      "superpower": "Provides Strong Wi-Fi Wherever He Goes",
+      "description": "A hero in the digital age, no one ever loses connection in his presence.",
+      "image": "https://i.pinimg.com/564x/ff/0c/15/ff0c157fa4428db19421aa3da72404c3.jpg"
+    },
+    {
+      "id": 22,
+      "name": "The One-Up",
+      "superpower": "Always Has a Better Story",
+      "description": "No matter the tale, he's always got something more incredible to say.",
+      "image": "https://i.pinimg.com/564x/6c/e8/da/6ce8dad3307644c26bddc34ebf4785f0.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Captain Sarcasm",
+      "superpower": "Sarcasm So Sharp It Cuts Villains' Egos",
+      "description": "His wit is a weapon. No villain can escape the sting of his words.",
+      "image": "https://i.pinimg.com/564x/b8/0a/cd/b80acd70a2293cfec875a0f7f98ea73e.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Super Clumsy",
+      "superpower": "Accidentally Saves the Day",
+      "description": "Trips, falls, and somehow always lands on the villain's defeat button.",
+      "image": "https://i.pinimg.com/564x/e4/5b/ce/e45bce3cc45e62d73cca669438326b96.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Captain Forgetful",
+      "superpower": "Forgets Every Plan but Somehow Succeeds",
+      "description": "He may not remember the mission, but he always finishes it... eventually.",
+      "image": "https://i.pinimg.com/564x/b0/86/1b/b0861b60ea05197d5fc11fd495417770.jpg"
+    },
+    {
+      "id": 26,
+      "name": "The Overthinker",
+      "superpower": "Analyzes Every Situation to the Extreme",
+      "description": "Can paralyze opponents with his endless streams of 'what if' scenarios.",
+      "image": "https://i.pinimg.com/564x/24/90/cb/2490cbdcbb7b59f9110c96066db60160.jpg"
+    },
+    {
+      "id": 27,
+      "name": "The Distractor",
+      "superpower": "Causes Villains to Lose Focus Instantly",
+      "description": "Uses irrelevant stories and funny videos to distract enemies mid-battle.",
+      "image": "https://i.pinimg.com/564x/cb/a1/82/cba182c1ba17d0a5934e872948e818cf.jpg"
     }
   ]
 }
