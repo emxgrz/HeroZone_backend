@@ -18,7 +18,7 @@
       "id": 3,
       "name": "Ironbike",
       "superpower": "Flight and ride",
-      "description": "Uses a powered exoskeleton to fly and combat threats.",
+      "description": "Steel-strength personality and a roll&ride attitude mixed with an inter-planetary spirit.",
       "image": "https://i.pinimg.com/564x/ce/61/77/ce6177bc78a29aa757e8c2e09f090139.jpg"
     },
     {
@@ -188,6 +188,34 @@
       "superpower": "Causes Villains to Lose Focus Instantly",
       "description": "Uses irrelevant stories and funny videos to distract enemies mid-battle.",
       "image": "https://i.pinimg.com/564x/cb/a1/82/cba182c1ba17d0a5934e872948e818cf.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Mr.Space",
+      "superpower": "Causes Villains to Lose Focus Instantly",
+      "description": "Can create multiple dimensions.",
+      "image": "https://www.xtrafondos.com/wallpapers/astronauta-en-nave-espacial-5816.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Superpaco",
+      "superpower": "Supersonic meow",
+      "description": "SuperPaco is an artificially created cat who was born in a cocoon at a scientific complex called The Beehive and send to the Earth with a plan: to save the humankind.",
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/a/f0/5202887448860.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Dr. Britney",
+      "superpower": "Powerfull voice",
+      "description": "In love with extreme experimental science, brave enough to test every useful & sensible personal thesis, and always ready to do it again...",
+      "image": "https://i.pinimg.com/564x/3e/9c/41/3e9c41712990a660b9b0bc9ad581842b.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Formerly Neo",
+      "superpower": "The matrix",
+      "description": "Trined to look like a villain, forced to live as a hero.",
+      "image": "https://www.screengeek.net/wp-content/uploads/2020/10/the-matrix-4-keanu-reeves-neo-1024x646.jpg"
     }
   ]
 }
